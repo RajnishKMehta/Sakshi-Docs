@@ -1,7 +1,4 @@
-
 # Summary
-
-* [Overview](index.md)
 
 ## Getting Started
 

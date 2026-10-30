@@ -8,7 +8,7 @@ site:
       path: home
       default: true
       content:
-        directory: ./
+        directory: ./home
     - type: space
       key: space-getting-started
       title: Getting Started

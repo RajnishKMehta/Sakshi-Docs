@@ -14,7 +14,7 @@ The Sākṣī ecosystem separates capture, communication, storage, and media man
 
 The following diagram shows the local data flow between the Sākṣī components. Media transfer and service communication are designed to work without an internet connection.
 
-\`\`\`mermaid
+```mermaid
 ---
 config:
   theme: base
@@ -64,7 +64,7 @@ flowchart TB
     class V vault
     class DB database
     class FS filesystem
-\`\`\`
+```
 
 For a deeper technical breakdown of the IPC and component interaction, see the [Detailed Architecture Flowchart](../developer-guide/concepts/architecture-flow.md).
 

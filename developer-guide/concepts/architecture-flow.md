@@ -6,24 +6,27 @@ This flowchart illustrates the detailed sequence of interactions between a clien
 ---
 config:
   theme: base
+  look: classic
   themeVariables:
-    background: "#F8FAFC"
+    background: "#FFFFFF"
     primaryColor: "#EEF2FF"
     primaryTextColor: "#312E81"
     primaryBorderColor: "#6366F1"
     secondaryColor: "#CCFBF1"
     secondaryTextColor: "#134E4A"
     tertiaryColor: "#DBEAFE"
-    lineColor: "#64748B"
-    textColor: "#1E293B"
-    edgeLabelBackground: "#FFFFFF"
+    lineColor: "#718096"
+    textColor: "#334155"
+    edgeLabelBackground: "#F1F5F9"
+    clusterBkg: "#F8FAFC"
+    clusterBorder: "#CBD5E1"
     fontSize: "14px"
     fontFamily: "Inter, Arial, sans-serif"
   flowchart:
-    nodeSpacing: 48
-    rankSpacing: 64
-    diagramPadding: 20
-    curve: linear
+    nodeSpacing: 52
+    rankSpacing: 68
+    diagramPadding: 24
+    curve: basis
     htmlLabels: false
 ---
 flowchart TB
@@ -80,15 +83,16 @@ flowchart TB
     BinderRes -->|"7 · IPC Response"| Unpack
     Unpack -->|"8 · SakshiResult returned to the SAME caller"| ClientApp
 
-    %% NODE STYLES
-    classDef client fill:#EEF2FF,stroke:#6366F1,stroke-width:2px,color:#312E81
-    classDef sdk fill:#E0E7FF,stroke:#4F46E5,stroke-width:2px,color:#312E81
-    classDef sdkCore fill:#4338CA,stroke:#312E81,stroke-width:3px,color:#FFFFFF
-    classDef decision fill:#FEF3C7,stroke:#D97706,stroke-width:2px,color:#92400E
-    classDef os fill:#FFF7ED,stroke:#EA580C,stroke-width:2px,color:#9A3412
-    classDef vault fill:#CCFBF1,stroke:#0D9488,stroke-width:2px,color:#134E4A
-    classDef storage fill:#DBEAFE,stroke:#3B82F6,stroke-width:2px,color:#1E3A8A
-    classDef background fill:#DCFCE7,stroke:#16A34A,stroke-width:2px,color:#14532D
+    %% COLOR SYSTEM: INDIGO (CLIENT), VIOLET (SDK), AMBER (DECISIONS),
+    %% ORANGE (IPC), TEAL (VAULT), BLUE (DATABASE), GREEN (BACKGROUND TASKS)
+    classDef client fill:#E8EDFF,stroke:#6478E8,stroke-width:2.5px,color:#293B83
+    classDef sdk fill:#EDE9FE,stroke:#8B78DB,stroke-width:2px,color:#4C3B91
+    classDef sdkCore fill:#5145CD,stroke:#352AA5,stroke-width:3px,color:#FFFFFF
+    classDef decision fill:#FFF2CC,stroke:#E6A23C,stroke-width:2.5px,color:#85520B
+    classDef os fill:#FFF0E3,stroke:#F08A45,stroke-width:2.5px,color:#994516
+    classDef vault fill:#DDF7F1,stroke:#36A995,stroke-width:2.5px,color:#17695E
+    classDef storage fill:#E2EEFF,stroke:#6B9CEB,stroke-width:2.5px,color:#294F91
+    classDef background fill:#E2F7E8,stroke:#59B879,stroke-width:2.5px,color:#24643A
 
     class ClientApp client
     class SakshiClient sdkCore
@@ -98,6 +102,9 @@ flowchart TB
     class VaultBinder,Processing,PackBundle vault
     class DB,FileStore storage
     class WorkManager background
+
+    %% Keep every connection legible against the pastel node palette.
+    linkStyle default stroke:#718096,stroke-width:1.8px,color:#334155
 ```
 
 ## Key Interactions

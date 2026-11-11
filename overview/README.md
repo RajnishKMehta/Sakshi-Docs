@@ -1,6 +1,6 @@
 ---
 description: "Overview of the Sākṣī ecosystem and its independent components."
-icon: book-open
+icon: readme
 ---
 <div align="center">
   <h1>Sākṣī (साक्षी)</h1>
@@ -12,32 +12,34 @@ icon: book-open
 
 Sākṣī (meaning "Witness" in Sanskrit) is an open-source Android ecosystem designed to help you retain a separate copy of personal, private, or important media. When capturing evidence of wrongdoing, people may be pressured to delete recordings from their phones. Sākṣī helps reduce the risk of losing the only copy by storing an independent copy in Vault. Once Vault has successfully received the media, deleting the ordinary original from the phone's gallery does not delete the copy stored in Vault.
 
+> Curious about how this idea started and the real-world events that inspired it? Check out the **[About Sākṣī](../about/README.md)** section to read the [Origin Story](../about/the-origin-story.md).
+
 ## The Ecosystem
 
 Sākṣī is made up of four independent components that work together. You can use the ready-made Android applications or integrate the SDK into your own application.
 
-### Sākṣī Vault
+### <a id="saksi-vault"></a>Sākṣī Vault
 **The storage service**
 
 A background-only application with no user interface. Vault receives and stores independent copies of media, maintains synchronization metadata, and supports scheduled deletion workflows. It is designed to work locally without requiring an internet connection.
 
 [Explore Sākṣī Vault](https://github.com/RajnishKMehta/Sakshi-Vault)
 
-### Sākṣī Camera
+### <a id="saksi-camera"></a>Sākṣī Camera
 **The capture application**
 
 Capture photos and videos and synchronize them with Vault. Fragmented MP4 (fMP4) recordings can be synchronized incrementally while recording, helping preserve already-written fragments if recording is interrupted.
 
 [Explore Sākṣī Camera](https://github.com/RajnishKMehta/Sakshi-Camera)
 
-### Sākṣī Portal
+### <a id="saksi-portal"></a>Sākṣī Portal
 **The media interface**
 
 Browse, play, manage, and export media stored in Vault. Portal works locally and does not upload your private media to a cloud service.
 
 [Explore Sākṣī Portal](https://github.com/RajnishKMehta/Sakshi-Portal)
 
-### Sākṣī SDK
+### <a id="saksi-sdk"></a>Sākṣī SDK
 **The developer library**
 
 A lightweight, headless Android library that provides the IPC APIs client applications use to communicate with the Vault service and transfer media.

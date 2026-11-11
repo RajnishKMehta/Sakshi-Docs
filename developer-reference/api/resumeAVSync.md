@@ -1,6 +1,6 @@
 ---
 description: "Requests the Vault to resume a previously paused audio/video synchronization."
-icon: code
+icon: circle-pause
 ---
 # resumeAVSync
 

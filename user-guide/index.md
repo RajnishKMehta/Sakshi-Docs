@@ -10,7 +10,9 @@ Welcome to the Sākṣī User Guide. This section will help you install, configu
 
 Sākṣī helps you preserve important photos and videos by saving a separate, synchronized copy in a private vault. If a photo is deleted from your normal Gallery, the copy in Sākṣī Vault is not affected.
 
-For a detailed explanation of how it works and what it protects against, read our [Security Overview](../security-privacy/README.md) and [Privacy Policy](../security-privacy/privacy-policy.md).
+> Want to know why this was built? Check out the **[About Sākṣī](../about/README.md)** section to read the real-world [Origin Story](../about/the-origin-story.md) behind the project.
+
+For a detailed technical explanation of how it works and what it protects against, read our [Security Overview](../security-privacy/README.md) and [Privacy Policy](../security-privacy/privacy-policy.md).
 
 ## Getting Started
 

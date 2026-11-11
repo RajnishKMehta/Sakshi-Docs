@@ -1,6 +1,6 @@
 ---
 description: "Sākṣī Portal automatically connects to the official Sākṣī Vault upon installation. If you are using a custom or third-party compatible Vault..."
-icon: monitor
+icon: vault
 ---
 # Changing the Vault in Portal
 

@@ -1,6 +1,6 @@
 ---
 description: "By default, Sākṣī Camera automatically detects and connects to the official Sākṣī Vault. However, if you have installed a compatible alternative..."
-icon: camera
+icon: vault
 ---
 # Changing the Vault in Camera
 

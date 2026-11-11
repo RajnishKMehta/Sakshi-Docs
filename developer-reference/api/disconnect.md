@@ -1,6 +1,6 @@
 ---
 description: "Explicitly disconnects from the Vault IPC service and releases internal resources."
-icon: code
+icon: link-slash
 ---
 # disconnect
 

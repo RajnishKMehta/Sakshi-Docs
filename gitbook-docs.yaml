@@ -10,6 +10,12 @@ site:
       content:
         directory: ./overview
     - type: space
+      key: space-about
+      title: About Sākṣī
+      path: about
+      content:
+        directory: ./about
+    - type: space
       key: space-user-guide
       title: User Guide
       path: user-guide

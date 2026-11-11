@@ -29,6 +29,8 @@ Sākṣī Vault is the core storage component. **It must be installed before you
 1. Download the latest Vault APK from the [Sākṣī Vault Releases](https://github.com/RajnishKMehta/Sakshi-Vault/releases/latest).
 2. Install the application on your Android device.
 
+**[👉 Direct Download](https://github.com/RajnishKMehta/Sakshi-Vault/releases/latest/download/Sakshi-Vault.apk)**
+
 **Important Note about Vault:**
 Sākṣī Vault runs entirely in the background. It does **not** have a user interface, and it will **not** appear in your app drawer. You cannot open it. There is no manual setup or configuration required. Simply installing it is all that is needed.
 
@@ -43,6 +45,8 @@ Use this app to capture photos and crash-safe videos that are automatically sent
 3. Grant the required permissions (Camera, Microphone) when prompted.
 4. The Camera will automatically detect and connect to the installed Vault.
 
+**[👉 Direct Download](https://github.com/RajnishKMehta/Sakshi-Camera/releases/latest/download/Sakshi-Camera.apk)**
+
 ### [Sākṣī Portal](https://github.com/RajnishKMehta/Sakshi-Portal)
 
 [![Latest Sākṣī Portal release](https://img.shields.io/github/v/release/RajnishKMehta/Sakshi-Portal?label=Latest%20Portal&style=for-the-badge&color=purple&logo=android)](https://github.com/RajnishKMehta/Sakshi-Portal/releases/latest)
@@ -52,6 +56,8 @@ Use this app to view, manage, and export the media stored in your Vault.
 1. Download and install the [Sākṣī Portal](https://github.com/RajnishKMehta/Sakshi-Portal/releases/latest).
 2. Open the Portal app.
 3. The Portal will automatically detect and connect to the installed Vault.
+
+**[👉 Direct Download](https://github.com/RajnishKMehta/Sakshi-Portal/releases/latest/download/Sakshi-Portal.apk)**
 
 ## How the Applications Work Together
 

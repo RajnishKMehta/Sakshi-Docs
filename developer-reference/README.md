@@ -1,6 +1,9 @@
 ---
 description: "Welcome to the Sākṣī Developer Reference Documentation."
 icon: book-open
+layout:
+  description:
+    visible: false
 ---
 # Developer Reference
 

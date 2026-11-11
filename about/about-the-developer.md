@@ -1,6 +1,9 @@
 ---
 description: "An introduction to Rajnish Kumar, also known as RajnishKMehta."
 icon: user
+layout:
+  description:
+    visible: false
 ---
 
 # About the Developer

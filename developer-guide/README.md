@@ -1,6 +1,9 @@
 ---
 description: "Welcome to the Sākṣī Developer Guide. This section of the documentation provides the technical details necessary to understand the architecture,..."
 icon: readme
+layout:
+  description:
+    visible: false
 ---
 # Sākṣī Developer Guide
 

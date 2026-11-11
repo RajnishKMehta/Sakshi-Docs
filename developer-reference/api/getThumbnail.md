@@ -1,6 +1,9 @@
 ---
 description: "Retrieves the ContentProvider URI template for accessing media thumbnails."
-icon: code
+icon: photo-film
+layout:
+  description:
+    visible: false
 ---
 # getThumbnail
 

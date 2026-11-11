@@ -1,6 +1,9 @@
 ---
 description: "Overview of the Sākṣī ecosystem and its independent components."
 icon: readme
+layout:
+  description:
+    visible: false
 ---
 <div align="center">
   <h1>Sākṣī (साक्षी)</h1>

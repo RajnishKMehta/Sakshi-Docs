@@ -1,6 +1,9 @@
 ---
 description: "Performs a health check against the Vault to verify connection and service availability. This is typically used to ensure the Vault is running and..."
 icon: tower-cell
+layout:
+  description:
+    visible: false
 ---
 # pingVault
 

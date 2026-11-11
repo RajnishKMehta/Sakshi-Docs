@@ -1,6 +1,9 @@
 ---
 description: "Queries Vault to check the current synchronization progress and state for a specific file."
 icon: circle-check
+layout:
+  description:
+    visible: false
 ---
 # isAVSynced
 

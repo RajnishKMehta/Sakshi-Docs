@@ -1,6 +1,9 @@
 ---
 description: "The SDK applies strict validation constraints to prevent path traversal and ensure secure file system operations."
 icon: list-check
+layout:
+  description:
+    visible: false
 ---
 # Validation Constraints
 

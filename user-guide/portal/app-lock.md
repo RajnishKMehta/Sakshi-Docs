@@ -1,6 +1,9 @@
 ---
 description: "To protect the media you view through Sākṣī Portal, you can enable App Lock. This requires you to authenticate (using your device's PIN, pattern,..."
 icon: fingerprint
+layout:
+  description:
+    visible: false
 ---
 # App Lock
 

@@ -1,6 +1,9 @@
 ---
 description: "The Sākṣī ecosystem is composed of several independent Android applications and a client library that communicate using an Inter-Process..."
 icon: layer-group
+layout:
+  description:
+    visible: false
 ---
 # Architecture & Concepts
 

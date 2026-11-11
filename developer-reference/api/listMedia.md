@@ -1,6 +1,9 @@
 ---
 description: "Lists all stored media files grouped by media type in JSON format. This method retrieves the current media catalog, explicitly excluding any media..."
 icon: rectangle-list
+layout:
+  description:
+    visible: false
 ---
 # listMedia
 

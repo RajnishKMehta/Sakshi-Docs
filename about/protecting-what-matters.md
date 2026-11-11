@@ -1,6 +1,9 @@
 ---
 description: "The core philosophy behind Sākṣī and the scenarios it is designed to address."
 icon: shield-halved
+layout:
+  description:
+    visible: false
 ---
 # Protecting What Matters
 

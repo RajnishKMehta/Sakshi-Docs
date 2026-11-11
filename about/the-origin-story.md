@@ -1,6 +1,9 @@
 ---
 description: "How seeing real-world injustice sparked the idea for Sākṣī."
 icon: lightbulb
+layout:
+  description:
+    visible: false
 ---
 # The Origin Story
 

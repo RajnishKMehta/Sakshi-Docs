@@ -1,6 +1,9 @@
 ---
 description: "Every failure from the SDK includes an `errorCode` string. This guide details standard error codes, when they happen, and how to recover. The..."
 icon: triangle-exclamation
+layout:
+  description:
+    visible: false
 ---
 # Error Codes Reference
 

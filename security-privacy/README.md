@@ -1,6 +1,9 @@
 ---
 description: "The Sākṣī ecosystem is designed to address a specific problem: preserving a separate copy of important media so that forced or accidental deletion..."
-icon: book-open
+icon: shield-halved
+layout:
+  description:
+    visible: false
 ---
 # Security Overview
 

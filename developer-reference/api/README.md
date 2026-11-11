@@ -1,6 +1,9 @@
 ---
 description: "This section provides comprehensive documentation for all public methods exposed by the `SakshiClient` interface."
 icon: list
+layout:
+  description:
+    visible: false
 ---
 # SDK API Reference
 

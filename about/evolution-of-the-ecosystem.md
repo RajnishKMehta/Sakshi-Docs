@@ -1,6 +1,9 @@
 ---
 description: "How Sākṣī evolved from a single idea into a multi-component architecture."
 icon: sitemap
+layout:
+  description:
+    visible: false
 ---
 # Evolution of the Ecosystem
 

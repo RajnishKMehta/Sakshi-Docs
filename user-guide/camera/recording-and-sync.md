@@ -1,6 +1,9 @@
 ---
 description: "Sākṣī Camera captures media and securely synchronizes a separate copy to the Sākṣī Vault. The behavior depends on the video format you choose in..."
 icon: camera
+layout:
+  description:
+    visible: false
 ---
 # Recording and Synchronization
 

@@ -1,6 +1,9 @@
 ---
 description: "Retrieves the details of a specific media file, including its `ContentResolver` URI. This is necessary for a client application to actually read..."
-icon: code
+icon: file-arrow-down
+layout:
+  description:
+    visible: false
 ---
 # getMedia
 

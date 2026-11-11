@@ -1,6 +1,9 @@
 ---
 description: "Explains how the Sākṣī ecosystem handles privacy, data storage, and protects your media."
-icon: shield
+icon: file-shield
+layout:
+  description:
+    visible: false
 ---
 # Sākṣī Ecosystem Privacy Policy
 

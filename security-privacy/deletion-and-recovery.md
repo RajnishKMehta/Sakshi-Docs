@@ -1,6 +1,9 @@
 ---
 description: "Sākṣī Vault implements a specific lifecycle for media deletion to protect against accidental loss while ensuring data is eventually removed when..."
-icon: shield
+icon: trash-arrow-up
+layout:
+  description:
+    visible: false
 ---
 # Deletion, Recovery & Data Retention
 

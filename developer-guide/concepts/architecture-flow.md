@@ -1,6 +1,9 @@
 ---
 description: "This flowchart illustrates the detailed sequence of interactions between a client application, the Sākṣī SDK, and the Vault service during a..."
 icon: chart-diagram
+layout:
+  description:
+    visible: false
 ---
 # Architecture Flow
 

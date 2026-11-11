@@ -1,6 +1,9 @@
 ---
 description: "Sākṣī relies on local Inter-Process Communication (IPC) for applications to interact with the Vault. Sākṣī Camera and Sākṣī Portal use the Sākṣī..."
 icon: shield
+layout:
+  description:
+    visible: false
 ---
 # IPC & Application Security
 

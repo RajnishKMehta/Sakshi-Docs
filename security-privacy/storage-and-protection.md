@@ -1,6 +1,9 @@
 ---
 description: "Sākṣī Vault handles the storage of all preserved media in the ecosystem. It is essential to understand where this data is stored and what platform..."
-icon: shield
+icon: database
+layout:
+  description:
+    visible: false
 ---
 # Storage & Data Protection
 

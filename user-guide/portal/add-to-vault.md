@@ -1,6 +1,9 @@
 ---
 description: Learn how to import existing photos, videos, and files into your Vault.
 icon: file-import
+layout:
+  description:
+    visible: false
 ---
 
 # Adding Media to Vault

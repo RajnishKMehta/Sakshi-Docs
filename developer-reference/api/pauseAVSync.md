@@ -1,6 +1,9 @@
 ---
 description: "Requests the Vault to temporarily pause an active audio/video synchronization."
 icon: circle-pause
+layout:
+  description:
+    visible: false
 ---
 # pauseAVSync
 

@@ -1,6 +1,9 @@
 ---
 description: "Sākṣī Vault does not delete files immediately when you request it. Instead, it uses a delayed deletion system to protect against accidental or..."
 icon: hourglass-half
+layout:
+  description:
+    visible: false
 ---
 # Scheduling Deletions and Recovery
 

@@ -1,6 +1,9 @@
 ---
 description: "Common troubleshooting issues, symptoms, and solutions for the Sākṣī ecosystem."
 icon: wrench
+layout:
+  description:
+    visible: false
 ---
 # Troubleshooting
 

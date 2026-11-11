@@ -1,6 +1,9 @@
 ---
 description: "Integrate the Sākṣī SDK into your Android application to communicate with the Sākṣī Vault service."
 icon: puzzle-piece
+layout:
+  description:
+    visible: false
 ---
 # SDK Integration
 

@@ -1,6 +1,9 @@
 ---
 description: "Configuration settings used when instantiating `SakshiClient`."
 icon: gear
+layout:
+  description:
+    visible: false
 ---
 # Configuration
 

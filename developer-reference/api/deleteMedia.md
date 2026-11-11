@@ -1,6 +1,9 @@
 ---
 description: "Schedules one or more media files for deletion in the Vault. Vault does not delete files immediately; it transitions them to a hidden state and..."
-icon: code
+icon: trash-can
+layout:
+  description:
+    visible: false
 ---
 # deleteMedia
 

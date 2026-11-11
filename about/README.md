@@ -1,6 +1,9 @@
 ---
 description: "An introduction to the Sākṣī ecosystem, its origins, and its purpose."
 icon: circle-info
+layout:
+  description:
+    visible: false
 ---
 # About Sākṣī
 

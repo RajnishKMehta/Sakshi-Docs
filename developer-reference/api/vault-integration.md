@@ -1,6 +1,9 @@
 ---
 description: "All requests made through the `SakshiClient` ultimately route to the Vault application. This document explains the common patterns used by the..."
 icon: vault
+layout:
+  description:
+    visible: false
 ---
 # Shared Vault Integration
 

@@ -1,6 +1,9 @@
 ---
 description: "Thank you for your interest in contributing to the Sākṣī ecosystem! We welcome and appreciate contributions of all forms, including bug reports,..."
 icon: code-pull-request
+layout:
+  description:
+    visible: false
 ---
 # Contributing to Sākṣī
 

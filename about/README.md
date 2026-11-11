@@ -17,7 +17,7 @@ Here, I'm going to share the actual story behind the code. Not just the technica
 
 *   **[The Origin Story](the-origin-story.md)**: This is where it all started. I'll tell you about the videos and real-world events that got me thinking about how easily people can be forced to delete evidence.
 *   **[Evolution of the Ecosystem](evolution-of-the-ecosystem.md)**: How did I go from just wanting to protect a video to building separate apps for Camera, Vault, and Portal? It involves a funny story from when I was a kid messing around with phones.
-*   **[Protecting What Matters](protecting-what-matters.md)**: This is what it all boils down to. Why we need to protect our evidence and our privacy, and the ideas driving everything I built here.
+*   **[What does Sakshi do?](protecting-what-matters.md)**: This is what it all boils down to. Why we need to protect our evidence and our privacy, and the ideas driving everything I built here.
 *   **[About the Developer](about-the-developer.md)**: A little bit about me.
 
 ## Need the Technical Stuff?

@@ -1,11 +1,12 @@
 ---
-description: "The core philosophy behind Sākṣī and the scenarios it is designed to address."
+description: "What does Sakshi do? and The core philosophy behind Sākṣī."
 icon: shield-halved
 layout:
   description:
     visible: false
 ---
-# Protecting What Matters
+# What does Sakshi do?
+## Protecting What Matters
 
 If you've read [how this whole idea started](the-origin-story.md), you know that my main motivation was stopping crucial evidence from being wiped out by corrupt officials or anyone abusing their power.
 

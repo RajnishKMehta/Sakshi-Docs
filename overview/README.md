@@ -21,6 +21,8 @@ Sākṣī (meaning "Witness" in Sanskrit) is an open-source Android ecosystem de
 
 Sākṣī is made up of four independent components that work together. You can use the ready-made Android applications or integrate the SDK into your own application.
 
+[What does Sakshi do?](../about/protecting-what-matters.md)
+
 ### <a id="saksi-vault"></a>Sākṣī Vault
 **The storage service**
 

@@ -1,6 +1,6 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Sākṣī Doc
+  title: Sākṣī Docs
   structure:
     - type: space
       key: space-overview

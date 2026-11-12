@@ -91,7 +91,7 @@ Add the version and library alias to `gradle/libs.versions.toml`. Set the versio
 
 ```toml
 [versions]
-sakshi-sdk = "VERSION_FROM_THE_BADGE"
+sakshi-sdk = "LATEST_VERSION"
 
 [libraries]
 sakshi-sdk = { module = "io.github.rajnishkmehta.sakshi:sakshi-sdk", version.ref = "sakshi-sdk" }

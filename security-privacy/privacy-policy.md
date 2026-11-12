@@ -7,7 +7,8 @@ layout:
 ---
 # Sākṣī Ecosystem Privacy Policy
 
-**Effective Date:** 2026-10-31
+**Effective Date:** 2026-11-16
+<br>**Last Updated:** 2026-11-12
 
 This Privacy Policy applies to the entire Sākṣī ecosystem, which includes **Sākṣī Camera**, **Sākṣī Vault**, **Sākṣī Portal**, the **Sākṣī SDK**, and any associated offline services provided by the Sākṣī project.
 
@@ -80,4 +81,4 @@ We may update this Privacy Policy occasionally to reflect changes in the applica
 If you have questions about this Privacy Policy or the security practices of the Sākṣī ecosystem, please contact:
 
 **Email:** [RajnishKMehta@proton.me](mailto:RajnishKMehta@proton.me)
-**Developer:** [Rajnish Kumar](https://github.com/RajnishKMehta/)
+**Developer:** [Rajnish Kumar](../about/about-the-developer.md)

@@ -33,7 +33,7 @@ So, I decided to actually try and build something. At first, I thought, I'll jus
 
 But then I realized, if someone is pointing a stick at you telling you to delete the video, and the app says "You can't," they'll just smash the phone.
 
-So I changed my mind. What if I make a camera app that secretly saves a full copy of the video somewhere else, but leaves a normal copy in the gallery? That way, you can just delete the one in the gallery to satisfy whoever is threatening you, but the real copy is safe.
+So I changed my mind. What if I make a camera app that secretly saves a full copy of the video in app-private internal storage, but leaves a normal copy in the gallery? That way, you can just delete the one in the gallery to satisfy whoever is threatening you, but the real copy is safe.
 
 But wait, what if they just uninstall my camera app? If the data is inside the camera app, uninstalling it ruins everything.
 

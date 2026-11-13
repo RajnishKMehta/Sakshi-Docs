@@ -8,7 +8,7 @@ layout:
 
 # About the Developer
 
-> ***As of 2026***
+> *As of 2026*
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/172272341?s=460" alt="Rajnish Kumar" width="180" style="border-radius: 18px;" />

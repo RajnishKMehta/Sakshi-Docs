@@ -8,6 +8,8 @@ layout:
 
 # About the Developer
 
+> ***As of 2026***
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/172272341?s=460" alt="Rajnish Kumar" width="180" style="border-radius: 18px;" />
 </p>
@@ -16,7 +18,9 @@ Hi, I'm Rajnish Kumar (you might know me online as RajnishKMehta). I am a interm
 
 I learned software development primarily through online resources and hands-on experimentation. I really enjoy learning new technologies and building useful projects, and over time I've built various Android applications, web applications, and Discord bots.
 
-In my workflow, I use AI-assisted development tools extensively. They help me explore ideas, build projects faster, solve complex problems, and learn new concepts along the way. I'm still learning and improving with every project I take on. I've developed a strong interest in open-source software, and I love creating and sharing tools that others might find helpful.
+I rely quite a bit on AI tools when developing software, and most of the code I write is AI-generated. That's partly because I currently work entirely from a mobile phone and don't have access to a laptop or desktop (as of 2026). AI tools have made it possible for me to build projects that would otherwise be much harder to work on with my current setup.
+
+I use them to bring my ideas to life, work through problems, and learn new things along the way. I don't know everything about software development yet, and I'm still learning with every project. I have a particular interest in open-source software and enjoy building things that I can share with others.
 
 ## My Projects
 

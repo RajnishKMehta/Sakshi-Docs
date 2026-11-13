@@ -17,7 +17,7 @@ The answer came from something I did when I was a kid. Back then, I was super cu
 
 During one of those times, I found this weird app installed on the phone. It had no name, no logo, and it didn't even show up in the app drawer. When I went into the phone's settings to look at the installed apps list, there was just a blank space where an app should be.
 
-It turned out to be some kind of malicious background service app. But remembering that got me thinking!
+Turns out, it was a malware app💀. And yes, I was the one who installed it😶‍🌫️. I had no idea what it was back then. I was just doing random stuff. But remembering that got me thinking!
 
 What if I build a background service app like that? An app that just runs quietly, without a logo or an icon in the app drawer. It wouldn't be malware, obviously, but a secure vault.
 
@@ -25,7 +25,7 @@ This became the core idea:
 1. **The Camera:** You use one app to record.
 2. **The Vault:** The video is secretly sent to this background app. Fragmented MP4 (fMP4) is continuously saved while recording, but Normal MP4 is copied only after recording stops.
 
-If someone checks your app drawer, they won't see a "Vault" app. They'll just see the Camera. If they force you to delete the video from your gallery, fine, but you must wait until the complete copy is in the Vault before deleting the original. Once it's there, the Vault has a copy.
+If someone checks your app drawer, they won't see a "Vault" app. They'll just see the Camera. If they force you to delete the video from your gallery, that's fine. The Vault still has a copy.
 
 ## The Need for an Interface
 
@@ -33,7 +33,7 @@ But this created a new problem. If the Vault is basically invisible and running 
 
 I needed a way to interact with the Vault without ruining its hidden nature. That's how **Sākṣī Portal** was born.
 
-The Portal is just an interface. You install it, use it to connect to the Vault, view your videos, or export them back to your gallery. And the best part? Once you are done, you can just uninstall the Portal. The Vault stays hidden in the background, keeping your files safe until you need them again.
+The Portal is just an interface. You install it, use it to connect to the Vault, view your videos, import new files into Vault, or export them back to your gallery. And the best part? Once you are done, you can just uninstall the Portal. The Vault stays hidden in the background, keeping your files safe until you need them again.
 
 ## The Resulting Ecosystem
 

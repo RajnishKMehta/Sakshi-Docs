@@ -8,7 +8,7 @@ layout:
 # What does Sakshi do?
 ## Protecting What Matters
 
-If you've read [how this whole idea started](the-origin-story.md), you know that my main motivation was stopping crucial evidence from being wiped out by corrupt officials or anyone abusing their power.
+If you've read [how this whole idea started](the-origin-story.md), you know that my main motivation was stopping crucial evidence from being wiped out by corrupt officials, people abusing their power, local goons intimidating others, or anyone else trying to destroy proof of their wrongdoing.
 
 But as I was building Sākṣī, I realized the philosophy goes way beyond just protecting evidence.
 

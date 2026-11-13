@@ -1,5 +1,5 @@
 * [About Sākṣī](README.md)
-* [What does Sakshi do?](protecting-what-matters.md)
 * [The Origin Story](the-origin-story.md)
 * [Evolution of the Ecosystem](evolution-of-the-ecosystem.md)
+* [What does Sakshi do?](protecting-what-matters.md)
 * [About the Developer](about-the-developer.md)

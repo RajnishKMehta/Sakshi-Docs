@@ -14,7 +14,7 @@ layout:
   <img src="https://avatars.githubusercontent.com/u/172272341?s=460" alt="Rajnish Kumar" width="180" style="border-radius: 18px;" />
 </p>
 
-Hi, I'm Rajnish Kumar (you might know me online as RajnishKMehta). I am a intermediate (12th) student (as of 2026) and an independent developer.
+Hi, I'm Rajnish Kumar (you might know me online as RajnishKMehta). I am an intermediate (12th) student (as of 2026) and an independent developer.
 
 I learned software development primarily through online resources and hands-on experimentation. I really enjoy learning new technologies and building useful projects, and over time I've built various Android applications, web applications, and Discord bots.
 
